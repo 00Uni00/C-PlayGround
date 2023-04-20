@@ -1,0 +1,15 @@
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\bin\Debug\net6.0\OrderClassModeling.exe
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\bin\Debug\net6.0\OrderClassModeling.deps.json
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\bin\Debug\net6.0\OrderClassModeling.runtimeconfig.json
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\bin\Debug\net6.0\OrderClassModeling.dll
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\bin\Debug\net6.0\OrderClassModeling.pdb
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.csproj.AssemblyReference.cache
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.AssemblyInfoInputs.cache
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.AssemblyInfo.cs
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.csproj.CoreCompileInputs.cache
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.dll
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\refint\OrderClassModeling.dll
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.pdb
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\OrderClassModeling.genruntimeconfig.cache
+C:\Users\00hub\Desktop\Web\Ex_1\OrderClassModeling\obj\Debug\net6.0\ref\OrderClassModeling.dll
